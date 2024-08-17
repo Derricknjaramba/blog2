@@ -31,19 +31,23 @@ Add Firebase configuration in src/firebase.js:
 
 Project Structure
 
-src/components/CreatePost.js: Component for creating posts
+    src/components/CreatePost.js: Component for creating posts
 
-src/components/PostList.js: Component for listing posts
+     src/components/PostList.js: Component for listing posts
 
-src/App.js: Main app component
+     src/components/Header.js :component for the head section
 
-src/firebase.js: Firebase configuration
+     src/components/footer.js :component for the footer section
 
-src/App.css: Basic styles
+     src/App.js: Main app component
+
+     src/firebase.js: Firebase configuration
+
+   src/App.css: Basic styles
 
 Firebase Firestore Setup
 
-Create a Firestore collection named posts in the Firebase Console.
+    Create a Firestore collection named posts in the Firebase Console.
 
 License :MIT Licens
 
